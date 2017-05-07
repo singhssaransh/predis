@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/eq"
+            android:icon="@drawable/ic_broken_image_black_24dp"
+            android:title="Earthquake" />
+        <item
+            android:id="@+id/tsu"
+            android:icon="@drawable/ic_blur_on_black_24dp"
+            android:title="Tsunami" />
+        <item
+            android:id="@+id/hurric"
+            android:icon="@drawable/ic_toys_black_24dp"
+            android:title="Hurricane" />
+    </group>
+
+    <item android:title="Awareness and Preparedness">
+        <menu>
+            <item
+                android:id="@+id/mitig"
+                android:icon="@drawable/ic_healing_black_24dp"
+                android:title="Mitigation" />
+
+        </menu>
+    </item>
+
+    <item android:title="Emergency">
+        <menu>
+            <item
+                android:id="@+id/contact"
+                android:icon="@drawable/ic_phone_black_24dp"
+                android:title="Contacts" />
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Predis</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_home">Predis</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="spinprompt">Sort By</string>
+    <string name="action_settings">Settings</string>
+</resources>
